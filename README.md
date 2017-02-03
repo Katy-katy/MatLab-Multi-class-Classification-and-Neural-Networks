@@ -31,3 +31,8 @@ oneVsAll.m - Train a one-vs-all multi-class classifier
 predictOneVsAll.m - Predict using a one-vs-all multi-class classifier
 
 predict.m - Neural network prediction function
+
+This project was written as an assignment for Machine Learning Classe (Stanford)
+
+https://www.coursera.org/learn/machine-learning/home/welcome
+
